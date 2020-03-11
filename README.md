@@ -14,3 +14,5 @@ Prompts the user for each guess and keeps track of the user's remaining guesses
 Letter.js should not require any other files.
 
 Word.js should only require Letter.js
+
+![Constructor Word Guess](assets/Screen Recording 2020-03-10 at 6.25.40 PM.mov)
