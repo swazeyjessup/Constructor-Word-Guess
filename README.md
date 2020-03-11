@@ -21,4 +21,4 @@
 4. `Word.js` *should only* require `Letter.js`
 
 
-![Constructor Word Guess](assets/Screen Recording 2020-03-10 at 6.25.40 PM.mov)
+![Video](assets/Screen Recording 2020-03-10 at 6.25.40 PM.mov)
