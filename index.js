@@ -6,7 +6,7 @@ var letterArray = "abcdefghijklmnopqrstuvwxyz";
 var harryPotterCharacters = [
     "hermione granger",
     "harry potter",
-    "lond voldemort",
+    "lord voldemort",
     "draco malfoy",
     "severus snape",
     "ron weasley",
@@ -69,7 +69,7 @@ function knowledge(){
             .prompt([
                 {
                     type: "input",
-                    message: "Guess a letter between A-Z!",
+                    message: "Guess the Harry Potter Character! Guess between A-Z!",
                     name: "userinput"
                 }
             ])
