@@ -21,4 +21,12 @@
 4. `Word.js` *should only* require `Letter.js`
 
 
-![Video](assets/Screen Recording 2020-03-10 at 6.25.40 PM.mov)
+
+![picture](assets/images/game1.png)
+
+![picture](assets/images/game2.png)
+![picture](assets/images/game3.png)
+
+![picture](assets/images/game4.png)
+![picture](assets/images/game5.png)
+
